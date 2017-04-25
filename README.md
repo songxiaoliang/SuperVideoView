@@ -65,3 +65,5 @@
 （4）代码中对外提供了修改样式等接口，详细可以具体查看源码
 
 四、效果图
+
+<img width="500" height="300" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-160651.jpg"/>
