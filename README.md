@@ -66,7 +66,7 @@
 
 四、效果图
 
-<img width="300" height="400" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-164928.jpg"/>
+<img width="250" height="450" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-164928.jpg"/>
 <img width="300" height="400" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-164950.jpg"/>
 <img width="500" height="300" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-160651.jpg"/>
 <img width="500" height="300" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-160704.jpg"/>
