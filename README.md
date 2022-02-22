@@ -1,10 +1,5 @@
 # SuperVideoView
 基于Android原生视音频播放器VideoView封装，添加手势控制等功能。
-### 效果图
-
-<img width="250" height="450" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-164928.jpg"/>
-<img width="500" height="300" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-160651.jpg"/>
-<img width="500" height="300" src="https://raw.githubusercontent.com/songxiaoliang/SuperVideoView/master/demo/S70425-160704.jpg"/>
 
 一、功能优势
 
